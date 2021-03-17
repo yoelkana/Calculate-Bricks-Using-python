@@ -9,6 +9,9 @@ Their pyramid is a bit weird, as it is actually a pyramid-shaped wall - it's fla
 
 The figure illustrates the rule used by the builders:
 
+![Untitled-1](https://user-images.githubusercontent.com/67785319/111427506-c8120d80-8728-11eb-82b0-4f0ce3e58b53.png)
+
+
 Your task is to write a program which reads the number of blocks the builders have, and outputs the height of the pyramid that can be built using these blocks.
 Note: the height is measured by the number of fully completed layers - if the builders don't have a sufficient number of blocks and cannot complete the next layer, they finish their work immediately.
 
